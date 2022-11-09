@@ -5,3 +5,7 @@ body {
 header {
     background-color: white;
 }
+
+.about-container {
+    border-radius: 0 100px 0 0;
+}
